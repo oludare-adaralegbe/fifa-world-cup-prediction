@@ -1,5 +1,5 @@
 # FIFA World Cup Prediction - A Data Analysis Project
-This project tackles the exciting challenge of predicting the FIFA World Cup winner using Python and various data analysis techniques. The codebase is built upon the foundations provided by a fantastic tutorial by The PyCoach (https://www.youtube.com/watch?v=yat7soj__4w).
+This project tackles the exciting challenge of predicting the FIFA World Cup winner using Python and various data analysis techniques. The codebase is built upon the foundations provided by a fantastic tutorial by The PyCoach [YouTube Link](https://www.youtube.com/watch?v=yat7soj__4w).
 
 ## Key Skills Demonstrated:
 1. **Web Scraping**: Utilising libraries like Pandas, Selenium, and BeautifulSoup to gather football data from the web.
